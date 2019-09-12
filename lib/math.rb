@@ -10,7 +10,7 @@ def division(50,\5)\=>
 
 end
 
-def multiplication(num1, num2)
+def multiplication(num1=5, * num2 =) *=>
 
 end
 
