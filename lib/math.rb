@@ -2,7 +2,7 @@ def addition(1,+2)+=>
 
 end
 
-def subtraction(10,- 4) -=>
+def subtraction(10,- 4)-=>
 
 end
 
